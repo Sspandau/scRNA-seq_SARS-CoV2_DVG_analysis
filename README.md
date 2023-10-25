@@ -7,7 +7,7 @@ This repository contains scRNA-seq analysis workflow for Sun Lab, URMC. It detai
   and to produce expression heatmaps of those differentially expressed genes and gene ontology enrichment plots.
 
 ## Instructions
-See SOP for all code necessary. 
+See SOP for all workflow. 
 
 The R scripts in this repository are for differential gene expression analysis between DVG+ and DVG- samples (DGE_DVG.R) and for identifying cell types (Celltype.R).
 The shell scripts are for generating gene expression matrices using either Cellranger or STARsolo.
